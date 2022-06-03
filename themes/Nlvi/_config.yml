@@ -27,7 +27,7 @@ mobile-header: light
 
 # Scheme
 # banderole | balance
-scheme: banderole
+scheme: balance
 
 # Header Style
 # line | block
@@ -36,7 +36,7 @@ header-style: block
 # theme-style
 # default: dark | green | blue | purple
 # miku | sakura | snowmiku
-theme-style: blue
+theme-style: snowmiku
 
 # ===========================================
 # Article Setting
@@ -71,7 +71,7 @@ reward:
 
 # Comments // Please only switch one on.
 comments:
-  enable: false
+  enable: true
 
   # disqus:
   # livere_datauid:
@@ -86,10 +86,6 @@ comments:
   #   client_id:
   #   client_secret:
   #   admin:
-
-# sub //Please just fill out ID.
-sub:
-  douban: 45916040
  
 #Friend link
 # friendLink:
