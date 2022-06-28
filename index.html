@@ -28,15 +28,15 @@
     author: "阿蓝",
     baseUrl: "/",
     theme: {
-      scheme: "",
-      lightbox: ,
-      animate: ,
-      search: false,
+      scheme: "balance",
+      lightbox: true,
+      animate: true,
+      search: true,
       friends: false,
       reward: false,
       pjax: false,
       lazy: false,
-      toc: false
+      toc: true
     }
   }
 </script>
@@ -44,7 +44,15 @@
 
 
 
+    
+<link rel="stylesheet" href="/script/lib/lightbox/css/lightbox.min.css">
 
+
+
+
+
+    
+<link rel="stylesheet" href="/syuanpi/syuanpi.min.css">
 
 
 
@@ -86,6 +94,59 @@
 
     <nav class="main-nav">
   
+  <ul class="main-nav-list syuanpi tvIn">
+  
+    <li class="menu-item">
+      <a href="javascript:;" id="search-btn" aria-label="Search">
+        <i class="iconfont icon-search"></i>
+      </a>
+    </li>
+  
+  
+  
+    
+  
+    <li class="menu-item">
+      <a href="/archives" id="archives">
+        <span class="base-name">
+          
+            ARCHIVES
+          
+        </span>
+      </a>
+    </li>
+  
+  
+    
+  
+    <li class="menu-item">
+      <a href="javascript:;" id="tags">
+        <span class="base-name">
+          
+            TAGS
+          
+        </span>
+      </a>
+    </li>
+  
+  
+    
+  
+    <li class="menu-item">
+      <a href="/about" id="about">
+        <span class="base-name">
+          
+            ABOUT
+          
+        </span>
+      </a>
+    </li>
+  
+  
+    
+  
+  </ul>
+  
 </nav>
 
   </div>
@@ -105,9 +166,36 @@
   <div class="mobile-header-body">
     <ul class="mobile-header-list">
       
+        <li class="mobile-nav-item syuanpi fadeInRightShort back-0">
+          <a href="/archives" >
+            
+              ARCHIVES
+            
+          </a>
+        </li>
+      
+        <li class="mobile-nav-item syuanpi fadeInRightShort back-1">
+          <a href="javascript:;" id="mobile-tags">
+            
+              TAGS
+            
+          </a>
+        </li>
+      
+        <li class="mobile-nav-item syuanpi fadeInRightShort back-2">
+          <a href="/about" >
+            
+              ABOUT
+            
+          </a>
+        </li>
+      
     </ul>
   </div>
 </div>
+
+
+  
 
 
 
@@ -350,7 +438,7 @@
       <div class="copyright">
     <div class="info">
         <span>&copy;</span>
-        <span> ~ 2022</span>
+        <span>2020 ~ 2022</span>
         <span>❤</span>
         <span>阿蓝</span>
     </div>
@@ -384,11 +472,21 @@
     <span style="text-align:center;font-family:Georgia;"><span style="font-family:Georgia;" id="scrollpercent">1</span>%</span>
 </div>
 
+  <div class="search" id="search">
+    <div class="input">
+      <input type="text" id="search-input" placeholder="搜索一下？" autofocus>
+    </div>
+    <div id="search-result"></div>
+  </div>
+
 
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 
 
+
+  <script></script>
+  <script src="/script/lib/lightbox/js/lightbox.min.js" async></script>
 
 
 
