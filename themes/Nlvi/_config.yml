@@ -1,4 +1,4 @@
-# ===========================================
+﻿# ===========================================
 # Information Settings
 # ===========================================
 
@@ -122,13 +122,17 @@ lazyload: false
 animate: true
 
 # Created Time
-since: 2016
+since: 2020
 
 # plugin
 # plugins:
 
 # about
-self: Action is the only cure
+self:
+喜欢听故事
+喜欢各种安静地待在黑暗中的活动（电影，话剧，音乐会etc）
+最近的墙头是Dr.Strange
+他是个不可爱之人，又有许多可爱之处
 
 # ===========================================
 # Search Settings
