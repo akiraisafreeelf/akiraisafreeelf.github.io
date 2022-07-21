@@ -1,6 +1,6 @@
 ---
 layout: 
-title:与Disco Diffusion的交涉
+title: 与Disco Diffusion的交涉
 date: 2022-07-21 16:56:21
 tags:
 ---
