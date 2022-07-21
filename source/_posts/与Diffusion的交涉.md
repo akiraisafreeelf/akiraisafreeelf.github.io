@@ -18,48 +18,41 @@ AI取代不了人，而人有了AI可以梦得更狂野。
 
 ----------
 
-<center>今日跑图集合</center>
+
+今日跑图集合
 
 
 - 目标：深海城市+巨大物
 - 结果：不大成功，但也有意外收获
 
-_posts/与Diffusion的交涉/mmexport1658316581453.jpg
 
 {% asset_img mmexport1658316581453.jpg This is an image %}  
 底图：朋友圈扒的莲塘随手拍
 
-_posts/与Diffusion的交涉/TimeToDisco(7)_1.jpg
 
-{% asset_img TimeToDisco(7)_1.jpg This is an image %}
+{% asset_img TimeToDisco7.jpg This is an image %}
 A beautiful painting of a silent city deep under the sea, with a huge blue whale swimming by, init scale 1000, skip steps 100  
 是真的有被惊艳到，没想到AI会直接把云变成鲸鱼
 
-_posts/与Diffusion的交涉/TimeToDisco(8)_0.jpg
 
-{% asset_img TimeToDisco(8)_0.jpg This is an image %}  
+{% asset_img TimeToDisco8.jpg This is an image %}  
 prompt同上，增加自由度init scale 1000, skip steps 50
 
-_posts/与Diffusion的交涉/TimeToDisco(9)_1.jpg
 
-{% asset_img TimeToDisco(9)_1.jpg This is an image %}  
+{% asset_img TimeToDisco9.jpg This is an image %}  
 prompt在相同基础上加了sank，还是没有深海
 
-_posts/与Diffusion的交涉/TimeToDisco(10)_0.jpg
 
-{% asset_img TimeToDisco(10)_0.jpg This is an image %}  
+{% asset_img TimeToDisco10.jpg This is an image %}  
 A beautiful painting of a huge blue whale, swimming through the middle of a flooded city and obscuring a bunch of buildings with its fin, init scale 10, skip steps 10  
 给了AI极大自由度，巨大物终于出现，但还是没有深海
 
 
-_posts/与Diffusion的交涉/TimeToDisco(9)_1.jpg
-
-{% asset_img TimeToDisco(9)_1.jpg This is an image %}  
+{% asset_img TimeToDisco11.jpg This is an image %}  
 A beautiful painting of a giant whale fin, swimming through the middle of a sunken city and obscuring a bunch of buildings  
 大翻车，短时间内不会使用生物局部来做主语了，但不得不说还是好看的，也很野
 
-_posts/与Diffusion的交涉/TimeToDisco(12)_1.jpg
 
-{% asset_img TimeToDisco(12)_1.jpg This is an image %} 
+{% asset_img TimeToDisco12.jpg This is an image %} 
 A beautiful painting of a giant whale, swimming across Atlantis and obscuring it with its fin, [1024 512]  
 都祭出Atlantis了，改了画幅，还是没有深海啊T T 不过意外的是出现了冬天，我确实有想过画个白雪皑皑的深圳来着
