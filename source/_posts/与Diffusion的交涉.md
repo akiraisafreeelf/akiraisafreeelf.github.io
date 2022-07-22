@@ -49,7 +49,7 @@ AI取代不了人，而人有了AI可以梦得更狂野。
 
 ----------
 
-###近日其他（能看）跑图一览###
+### 近日其他（能看）跑图一览 ###
 
 ↓A cute portrait of young Doctor Strange, displaying his new magic by Kagaya Yutaka 能跑出这样的幼年奇异博士很惊喜了，DD并不适合画人
 {% asset_img TimeToDisco(0)_2.png %} 
