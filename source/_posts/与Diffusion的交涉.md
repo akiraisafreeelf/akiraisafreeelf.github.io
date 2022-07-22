@@ -17,7 +17,7 @@ AI取代不了人，而人有了AI可以梦得更狂野。
 
 ----------  
 
-今日跑图集合
+### 今日跑图集合 ###
 
 - 目标：探索垫底图时的AI表现，画深海城市+巨大物
 - 结果：不大成功，但也有意外收获	
@@ -40,7 +40,7 @@ AI取代不了人，而人有了AI可以梦得更狂野。
 {% asset_img TimeToDisco10.png This is an image %}    
 #  
 ↓A beautiful painting of a giant whale fin, swimming through the middle of a sunken city and obscuring a bunch of buildings  
-想让画面只出现鲸鱼鳍体现巨大物，把flooded改成sunken想让AI画深海，结果大翻车，短时间内不会使用生物局部来做主语了
+想让画面只出现巨大的鱼鳍，把flooded改成sunken想画出深海城市，结果大翻车
 {% asset_img TimeToDisco11.png This is an image %}    
 #  
 ↓A beautiful painting of a giant whale, swimming across Atlantis and obscuring it with its fin, [1024 512]  
@@ -49,16 +49,16 @@ AI取代不了人，而人有了AI可以梦得更狂野。
 
 ----------
 
-近日其他（能看）跑图一览
+###近日其他（能看）跑图一览###
 
-A cute portrait of young Doctor Strange, displaying his new magic by Kagaya Yutaka 很惊喜了，DD并不适合画人
+↓A cute portrait of young Doctor Strange, displaying his new magic by Kagaya Yutaka 能跑出这样的幼年奇异博士很惊喜了，DD并不适合画人
 {% asset_img TimeToDisco(0)_2.png %} 
 #  
-A astonishing photo of a huge kestrel, hovering above a tumultuous sea at dawn by Kagaya Yutaka 虽然不是我要的红隼但很喜欢这张！猛禽的眼神，巨大物！
+↓A astonishing photo of a huge kestrel, hovering above a tumultuous sea at dawn by Kagaya Yutaka 虽然不是我要的红隼但很喜欢这张！猛禽的眼神，巨大物！
 {% asset_img TimeToDisco(4)_2.png %} 
 #  
-A beautiful painting of a cute enormous kestrel, flying with the moon on its wings by Bob Ringwood *迭代步数500
+↓A beautiful painting of a cute enormous kestrel, flying with the moon on its wings by Bob Ringwood *迭代步数500
 {% asset_img TimeToDisco(5)_2.png %} 
 #  
-A beautiful painting of a cute enormous kestrel, flying with the moon on its wings by Bob Ringwood *迭代步数250
+↓A beautiful painting of a cute enormous kestrel, flying with the moon on its wings by Bob Ringwood *迭代步数250
 {% asset_img TimeToDisco(6)_0.png %} 
