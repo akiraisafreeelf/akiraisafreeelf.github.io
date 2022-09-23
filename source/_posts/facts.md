@@ -2,7 +2,7 @@
 layout: 
 title: 关于近几年进口片的fun facts
 date: 2022-09-23 11:08:02
-tags:生活杂感
+tags: 看电影
 ---
 最近实在是憋得发慌，太想大银幕看大片了，尤其是动作片，biubiubiuboomboomboom拳拳到肉火花四溅那种。(错过子弹列车真的好可惜)
 
